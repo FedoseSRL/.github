@@ -1,6 +1,4 @@
-## Hi there 👋
-
-### this is a close company.
+### This is a close company.
 
 <!--
 
